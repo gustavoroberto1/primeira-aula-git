@@ -3,4 +3,7 @@
 ## PRIMEIROS CÓDIGOS EM JAVASCRIPT
 Esse é um projeto de teste dos nossos primeiros códigos. blablalbala.
 index.html
-aula01.js
+aula01.jsçlmfghkdjhgfdjhfdgkh´p
+
+
+dkfjghlkfdjhfgklhj
